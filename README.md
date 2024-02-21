@@ -1,5 +1,3 @@
-# HtmlCss2
-
 # Business Card HTML/CSS Project
 
 This project involves creating a responsive business card using HTML and CSS. The business card will include a picture, a one-liner introduction, and links to your LinkedIn or GitHub accounts. The design will be customized using CSS, with additional functionality such as a border change on hover.
